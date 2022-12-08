@@ -2,7 +2,11 @@
 ## 📝 Sobre o projeto
 Análise de dados em um conjunto de dados sobre o avanço do coronavírus no Brasil nos anos de 2020 e 2021, conjunto de dados disponível [aqui](https://www.kaggle.com/datasets/unanimad/corona-virus-brazil).
 
+<<<<<<< HEAD
 #### 👨🏼‍💻 Tecnologias utilizadas:
+=======
+👨🏼‍💻 Tecnologias utilizadas:
+>>>>>>> d1ff893e8997eda169cefe69094d62d8d750f1c6
 - Python
 - Jupyter Notebook
 - Power BI
@@ -17,6 +21,7 @@ Dashboard principal informando casos e mortes:
 
 ![Main Dashboard](./images/main_dashboard.jpg)
 
+<<<<<<< HEAD
 ## Storytelling
 Até o dia 23 de maio de 2021 temos no total 16 milhões de casos confirmados de pessoas infectadas pelo coronavírus e 449 mil mortes decorrentes dessa doença. 
 Observando o gráfico notamos que o número de casos e mortes so aumentam, atingimos os 5 milhões de infectados por volta de outubro de 2020 e nesse mesmo período cerca de 180 mil mortes, isso é 6 meses após o primeiro caso confirmado, e em fevereiro de 2021 dobramos o número de infectados (5 meses após atingir 5 milhões) com aproximadamente 250 mil mortes.
@@ -44,5 +49,16 @@ Observando a relação de casos e mortes com os estados notamos que na maioria d
 ![States Dashboard](./images/states_dashboard.jpg)
 
 ### Dashboard secundário com a utilização de filtros por estado, na imagem estão selecionado os estados: SP, PR, SC, RJ e DF.
+=======
+Dashboard principal com a utilização de filtros, o filtro selecionado mostra apenas os resultados na data 02/06/2020 até a data 16/12/2020.
+
+![Main Dashboard with filter](./images/main_dashboard_with_filter.jpg)
+
+Dashboard secundário informando casos e mortes por estado e o percentual de cada estado.
+
+![States Dashboard](./images/states_dashboard.jpg)
+
+Dashboard secundário com a utilização de filtros por estado, na imagem estão selecionado os estados: SP, PR, SC, RJ e DF.
+>>>>>>> d1ff893e8997eda169cefe69094d62d8d750f1c6
 
 ![States Dashboard with filter](./images/states_dashboard_with_filter.jpg)
